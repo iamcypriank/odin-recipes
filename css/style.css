@@ -1,0 +1,16 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: whitesmoke;
+}
+.heading{
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+.list{
+    background-color: beige;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
